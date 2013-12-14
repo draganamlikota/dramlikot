@@ -1,8 +1,8 @@
 #include <iostream>
 #include <ctime>
 #include <cstring>
-#include "queuep.h"
-//#include "queuea.h"
+#include "red_pokazivac.h"
+//#include "red_polje.h"
 using namespace std;
 
 void ispis(paci slog){
